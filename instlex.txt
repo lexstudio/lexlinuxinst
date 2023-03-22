@@ -175,8 +175,8 @@ read asdgtrh
             read ytub
              echo "finishing instalation"
              sleep 3
-git clone 
-git clone 
+git clone git@github.com:lexstudio/lexlinux.git
+git clone git@github.com:lexstudio/hacktool.git
   sleep 4
    echo "finish"
     sleep 3
