@@ -1,0 +1,183 @@
+#!/bin/bash
+
+clear
+echo "welcome to install lex linux"
+echo "for help visit lex studio on youtube"
+echo "read storage alocate recommended is 2 or 3 gb"
+read storag
+echo "read ram alocate recommended is 1 ram or 1.50 ram"
+read ram
+echo "storage is $storag and $ram"
+read jka
+echo "sd is formate"
+read jagd
+echo "sd is open"
+read sids
+echo "sd is reformate by lex"
+read hya
+echo "network ping scan"
+sleep 1
+echo "ping not found"
+read asde
+echo "network connecting"
+sleep 2
+echo "network is connect"
+read gat
+echo "network ping scan"
+sleep 3
+echo "ping 3"
+sleep 4
+echo "ping 4 "
+sleep 2
+echo "ping 2"
+sleep 2
+echo "ping 3"
+sleep 1
+echo "ping 1"
+read gatoij
+echo "1ssd  $storag"
+read husd
+clear
+echo "ssd reformate"
+echo "write c for create one"
+read create
+echo "what is storage alocate"; read strgh
+echo "generation ssd"; read sdguas
+read onehl
+echo "what is storage alocate"; read heta
+echo "generation ssd"; read asdf
+read kihj
+echo "what is storage alocate"; read uhhs
+echo "genetation ssd"; read sssd
+read exit
+echo "exit"
+read htad
+echo "1ssd $storag"
+echo "|1ssd $strgh"
+echo "|2ssd $heta"
+echo "|3ssd $uhhs"
+read hytu
+echo "msfconsole is create"
+read sdgfy
+echo "msfconsole edit"
+read gtas
+echo "msfconsole imake msfadmin "
+read asjdi
+echo "msfadmin code copy from lex studio"
+read hyursr
+echo "msfconsole code edit"
+read asgdt
+echo "msfconsole is update"
+read juyeer
+figlet msfconsole
+      echo "by lex"
+echo "msfconsole@lex"
+read asdfghr
+echo "all acces"
+sleep 1
+echo "binary code"
+sleep 1
+echo "resorce complet"
+echo "msfconsole@lex"
+read sdfii
+echo  "exit"
+read koes
+echo "lex_servertmsvr.exe lexstudiocnt lexconsole msfconsole ggconsole_instaler"
+read saad
+      echo "lex.editfirefox opening from lex studio"
+            read hghg
+      echo "vc -h lx2 load 111 x1 -l g_!for3lex"
+            echo "g3 lx linux noneroos root1 000011108012g in_"
+             echo "      (1in3 supreazi_hl1) j22 -k i2"
+echo "h1 in_ console on 13295-23496-123h7 root1 linx"
+read frex
+        echo "vc has edit"
+read juhf
+figlet lex firefox
+read ladk
+        echo "exit"
+read asdfs
+echo "user name:"
+read name
+echo "passwd:"
+read passwd
+echo "user has beem creat"
+read free
+echo "root sd "
+read grupd
+echo "sd close"
+read gtfre
+echo "hacktool is import"
+read jdyf
+echo "msd is create"
+read openiss
+echo "msd is open"
+  read turtle
+          echo "root wifi"
+                sleep 3
+        echo "wlan0 and wlan1"
+sleep 1
+    echo "wifi access"
+read asjh
+  echo "msd lex core"
+read asdftk
+  echo "core edit"
+read ahsdgfh
+        echo "add ssh in core by lexaddm"
+    sleep 2
+      echo "ssh(54721)"
+read asdgtrh
+              echo "core g edit"
+          read  askuygd
+    echo "sd make admin core"
+  read hrg7r
+          echo "wlan0 save in core"
+      read jurgwr
+  echo "exit"
+  read jurgt
+                    echo "sd open"
+            read ytueuf
+        echo "dsd is create"
+    read uiasd
+        echo "dsd is edit by lexadm"
+    read tasdjg
+            echo "dsd is open"
+        read tasdv
+    echo "lexhunter is import"
+            read rawif
+      echo "lexhunter downloading"
+    sleep 12
+     echo "complet"
+      echo "lexhunter|lex"
+    read  urfjg
+    sleep 2
+    echo "core corespund "
+      echo "lexhunter|lex"
+  read yeurv
+        echo "wifi wlan0 & wlan1 is connect"
+          echo "lexhunter|lex"
+                read utqerc
+            echo "join wlan0"
+        read gtdeuf
+                    echo "wlan0 is edit alredy"
+                echo "lexhunter|lex"
+            read yruic 
+                    echo "exit"
+        read tkasb
+                sleep 3
+            echo "   11"
+            echo "   11"
+            echo "   11"
+            echo "   11"
+            echo "   11"
+            echo "11111"
+            echo "lex/l"
+            read ytub
+             echo "finishing instalation"
+             sleep 3
+git clone 
+git clone 
+  sleep 4
+   echo "finish"
+    sleep 3
+     echo "for activate lex linux type comman "bash lexlinux"
